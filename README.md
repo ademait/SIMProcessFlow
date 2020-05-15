@@ -2,5 +2,5 @@
 
 Pràctica Process Flow amb FlexSim
 
-David Agut\n
+David Agut
 Adem Ait
