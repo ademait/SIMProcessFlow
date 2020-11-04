@@ -1,6 +1,6 @@
 # Pràctica SIM Process Flow
 
-Pràctica Process Flow amb FlexSim
+Simulation of a supermarket made with Process Flow of FlexSim
 
 ## Autors
 
